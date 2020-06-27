@@ -1,0 +1,27 @@
+.inp{
+
+    height: 60px;
+    width: 600px;
+}
+
+
+.btn{
+
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.bor{
+    border: 1px solid black;
+    width: 700px;
+    margin-left: 200px;
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: cornflowerblue;
+}
+
+.btnclear{
+    width: 240px;
+}
